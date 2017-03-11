@@ -1,0 +1,5 @@
+c:\users\sabina\documents\visual studio 2015\Projects\ConsoleApplication111\ConsoleApplication111\bin\Debug\ConsoleApplication111.exe.config
+c:\users\sabina\documents\visual studio 2015\Projects\ConsoleApplication111\ConsoleApplication111\bin\Debug\ConsoleApplication111.exe
+c:\users\sabina\documents\visual studio 2015\Projects\ConsoleApplication111\ConsoleApplication111\bin\Debug\ConsoleApplication111.pdb
+c:\users\sabina\documents\visual studio 2015\Projects\ConsoleApplication111\ConsoleApplication111\obj\Debug\ConsoleApplication111.exe
+c:\users\sabina\documents\visual studio 2015\Projects\ConsoleApplication111\ConsoleApplication111\obj\Debug\ConsoleApplication111.pdb
